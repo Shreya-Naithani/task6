@@ -1,0 +1,65 @@
+* {
+  font-size: 20px;
+}
+header {
+  margin-top: 5px;
+}
+.logo {
+  display: inline;
+  margin-right: 30vw;
+  margin-left: 5vw;
+}
+li {
+  list-style: none;
+  display: inline;
+  margin: 4px;
+  color: gray;
+}
+
+header {
+  margin-top: 5px;
+  margin-bottom: 5%;
+}
+.btn {
+  position: absolute;
+
+  right: 10vw;
+  border: none;
+  background-color: skyblue;
+  padding: 7px;
+  border-radius: 12px;
+  color: blue;
+}
+.line {
+  width: 25vw;
+}
+.leftdiv {
+  display: inline;
+  position: absolute;
+  width: 25vw;
+  left: 7vw;
+  margin-right: 2%;
+}
+.btn1 {
+  background-color: skyblue;
+  border: none;
+  border-radius: 18px;
+  color: white;
+  padding: 16px;
+}
+.blue {
+  color: blue;
+  font-weight: 800;
+  font-size: 30px;
+}
+h1 {
+  font-size: 40px;
+  color: #555555;
+  font-weight: 800;
+}
+.rightdiv {
+  display: inline;
+  position: absolute;
+  top: 21%;
+  right: 15%;
+}
